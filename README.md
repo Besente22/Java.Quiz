@@ -1,2 +1,2 @@
-# Java.Quiz
-This is our Java.quiz program
+# Java.Quiz Program
+This Java-based Quiz Management System is a simple console app for creating and taking timed multiple-choice quizzes. Instructors can set quizzes with up to 50 questions and get automatic performance reports. Students receive instant feedback and detailed results. The system includes input validation, uses Java’s time API, and runs with a text-only interface, storing data in memory with support for one quiz at a time.
